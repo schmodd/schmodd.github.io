@@ -1,6 +1,6 @@
 # General Jekyll Config
 pygments: true
-url: http://schmodd.github.io
+url: schmodd.github.io
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
