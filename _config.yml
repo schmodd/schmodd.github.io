@@ -1,6 +1,7 @@
 # General Jekyll Config
 pygments: true
 url: schmodd.github.io
+markdown: kramdown
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
