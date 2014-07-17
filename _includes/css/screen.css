@@ -10,7 +10,7 @@ html, body {
 body {
   font-size: 16px;
   background-color: white;
-  color: #333333;
+  color: #666666;
   line-height: 24px;
   margin: 0;
   border-top: 7px solid {{ site.theme.highlight_color }};
